@@ -1,2 +1,2 @@
-| TC-001 | Upload | Upload valid PDF file | File uploaded successfully | Pass |
-| TC-002 | Upload | Upload invalid PNG file | Error message displayed | Pass |
+| TC-003 | Bulk Upload | Upload 4 files | Notification appears | Pass |
+| TC-004 | Notification | Click bell icon | Notification panel opens | Pass |
