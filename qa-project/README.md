@@ -12,9 +12,9 @@ This project contains manual test cases and bug reports for a Document Managemen
 - Edge Cases
 
 ## Files Included
-- README.md
 - test-cases.md
 - bug-report.md
+- screenshots/
 
 ## Tools Used
 - VS Code
