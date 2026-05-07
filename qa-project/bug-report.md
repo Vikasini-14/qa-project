@@ -1,6 +1,10 @@
-# Bug Reports
-
 ## BUG-001
 
 Issue:
-Sample bug report.
+Duplicate uploads occur when clicking upload button multiple times quickly.
+
+Expected:
+Only one upload should happen.
+
+Actual:
+Multiple uploads are created.
